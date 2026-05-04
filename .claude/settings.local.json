@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir quit-ai-addiction *)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --no-git --eslint --src-dir --import-alias \"@/*\")",
+      "Bash(npm install *)"
+    ]
+  }
+}
